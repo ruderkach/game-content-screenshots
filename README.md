@@ -1,4 +1,5 @@
 # game-content-screenshots
+
 /game-content-screenshots
 │── /tests
 │   │── featurePopupTest.js          # Test script
