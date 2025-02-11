@@ -1,0 +1,12 @@
+{
+    "baseUrl": "https://xplatform001-lrs-gt-dev.gt-box-int-54f2g.com/launch?link_title=dgm&partner=dgm-pangea2-phoenix&force_mobile=1&server_url=https%3A%2F%2Fgt-dev.gt-box-urp-675w0.com%2Fconnect&wl=pangea2-phoenix&platform=mob",
+    "gameName": "royal_express_mob",
+    "languages": [ "en" ],
+    "apiKey": "test",
+    "shifter": { "serverUrl": "https://gt-dev.gt-box-urp-675w0.com", "wlCode": "demomode", "partnerId": 1 },
+    "shifts": {"startBonus": "config_prob=0&s=59,165,154&cindx=0&bindx=5,4&cpos=0&bw=2,3;"},
+    "iPadMini": { "name": "iPadMini", "width": 768, "height": 1024 },
+    "galaxyZFold5": { "name": "galaxyZFold5", "width": 344, "height": 882 },
+    "paytableSize": { "width": 500, "height": 4500 }
+  }
+  

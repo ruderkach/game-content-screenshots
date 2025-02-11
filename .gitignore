@@ -1,0 +1,6 @@
+.idea
+.DS_Store
+node_modules
+screenshots
+feature_preview_main_rules.js
+feature_popup.js
